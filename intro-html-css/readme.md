@@ -1,0 +1,5 @@
+# Anotações
+
+## Tags
+### <html>
+Essa tag é a raiz de seu documento, ou seja todos elementos devem está dentro dessa tags, e fechamento é feito por </html>. 
