@@ -13,5 +13,9 @@ A tag html é a raiz de seu documento, ou seja todos elementos devem está dentr
 
 ### Semântica
 
-Temos algumas tags que trazem esse conceito de semântica por exemplo temos a
-> '''<section> <header> <article> <aside> <footer> <h1>-<h6>'''
+Temos algumas tags que trazem esse conceito de semântica por exemplo temos:
+
+> 
+'''
+{<section> <header> <article> <aside> <footer> <h1>-<h6>}
+'''
